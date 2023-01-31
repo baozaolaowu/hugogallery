@@ -1,4 +1,4 @@
-baseURL      = "https://blog.muxilong.com/"
+baseURL      = "https://blog.muxilong.com/pics"
 title        = "Xilong_Mu's Blog"
 disableKinds = ["section", "taxonomy", "term"]
 
