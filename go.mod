@@ -1,5 +1,6 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/baozaolaowu/hugogallery
 
 go 1.19
 
-require github.com/bep/gallerydeluxe v0.9.1 // indirect
+require github.com/baozaolaowu/hugogallery v0.9.1 // indirect
+
